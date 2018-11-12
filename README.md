@@ -23,9 +23,9 @@ Vulnerability #2: __________________
 
 ## Green
 
-Vulnerability #1: ______Cross-Site Scripting____________
+Vulnerability #1: ______Username Enumeration____________
 
-Vulnerability #2: __________________
+Vulnerability #2: __________Cross-Site Scripting________
 
 
 ## Red
